@@ -1,7 +1,7 @@
 # Proyecto de Prueba
 
 
-print("Conexión: Establecida por Colaborador B")
+print("Conexión: Activa local por Colaborador A")
 
 
 
